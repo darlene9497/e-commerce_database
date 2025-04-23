@@ -1,4 +1,4 @@
-# e-commerce_database
+# E-commerce_database
 
 ## 📌 Getting Started
 
