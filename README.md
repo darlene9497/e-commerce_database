@@ -34,9 +34,8 @@
   - `product_item` → `product_variation`
   - `product_attribute` → `product`, `attribute_category`, `attribute_type`
 
-![IMG](/E-commerce DB.png)
-
-![ERD_link](https://dbdiagram.io/d/E-commerce-DB-68089e051ca52373f5013e58)
+![IMG](/ecommerce.png)
+[E-commerce database ERD](https://dbdiagram.io/d/E-commerce-DB-68089e051ca52373f5013e58)
 
 ## 💡 Example use case
 
