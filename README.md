@@ -35,7 +35,7 @@
   - `product_attribute` → `product`, `attribute_category`, `attribute_type`
 
 ![IMG](/ecommerce.png)
-[E-commerce database ERD](https://dbdiagram.io/d/E-commerce-DB-68089e051ca52373f5013e58)
+[E-commerce database ERD](https://dbdiagram.io/d/E-commerce-Database-6814a6391ca52373f53449dc)
 
 ## 💡 Example use case
 
